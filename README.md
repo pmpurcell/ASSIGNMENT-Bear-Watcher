@@ -11,7 +11,7 @@ You have been tasked with creating a site scientists and park ranger can use to 
 $ git clone github-url
 $ cd repo-name
 ```
-2. Follow the instructions from the ["Starting the Project" Instructions](https://github.com/nss-nightclass-projects/webpack-template/blob/master/README.md#starting-the-project) to ensure you make all the updates to get the project started.
+2. Follow the instructions from the ["Starting the Project" Instructions](https://github.com/codetracker-learning/webpack-template#starting-the-project) to ensure you make all the updates to get the project started.
 
 3. Install Packages
 
