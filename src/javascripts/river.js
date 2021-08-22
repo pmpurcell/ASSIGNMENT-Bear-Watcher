@@ -4,7 +4,7 @@ const bearCardBuilder = (array) => {
   let domString = ' ';
 
   array.forEach((element) => {
-    domString = `
+    domString += `
         <div class="card" style="width: 18rem;">
   <img src="${element.image}" class="card-img-top" alt=${element.name}>
   <div class="card-body">

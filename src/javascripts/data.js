@@ -1,8 +1,3 @@
-const bears = [
-  {
-    name: 'Hugo',
-    image: 'https://imgur.com/gallery/iEIMiGD'
-  }
-];
+const bears = [];
 
 export default bears;

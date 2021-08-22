@@ -1,11 +1,10 @@
 import '../styles/main.scss';
 import bearFormBuilder from './bearForm';
-import bears from './data';
-import bearCardBuilder from './river';
+import formSubmit from './formEvents';
 
 const init = () => {
   bearFormBuilder();
-  bearCardBuilder(bears);
+  formSubmit();
 };
 
 init();
