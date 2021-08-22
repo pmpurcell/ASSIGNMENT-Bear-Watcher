@@ -1,7 +1,7 @@
-import renderToDom from "./renderToDom";
+import renderToDom from './renderToDom';
 
 const bearFormBuilder = () => {
-    let domString = `
+  const domString = `
     <div id= "bearForm>
     <form>
   <div class="mb-3">
@@ -15,9 +15,9 @@ const bearFormBuilder = () => {
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
     </div>
-    `
+    `;
 
-    renderToDom ("#app", domString);
+  renderToDom('#bearFormContainer', domString);
 };
 
 export default bearFormBuilder;
