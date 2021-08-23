@@ -1,6 +1,5 @@
 # Bear Watcher [![Netlify Status](https://api.netlify.com/api/v1/badges/cb4da4ca-16c1-4f1f-9437-26c81b9372d8/deploy-status)](https://app.netlify.com/sites/pmp-bear-watcher/deploys)
 
-
 While exploring nature, track the bears you find and count the amount of fish they have caught!
 
 [View App](https://pmp-bear-watcher.netlify.app/)
@@ -28,8 +27,8 @@ The user will be able to compile all the information of the bears they are watch
 - [Wireframes](https://docs.google.com/presentation/d/1zghSoqXQxMyrcLyZDPTLlxq4ky5HBIr3FgWvryEFRB4/edit?usp=sharing)
 - [Project Board](https://github.com/pmpurcell/ASSIGNMENT-Bear-Watcher/projects/1)
 
-## Code Snippet
-PLACE CODE SNIPPET HERE
+## Code Snippet!
+[catchFish](https://user-images.githubusercontent.com/86082231/130385166-f9992d33-3bff-4d18-99e1-b8e2fce351f3.png)
 
 ## Project Screenshots
 
