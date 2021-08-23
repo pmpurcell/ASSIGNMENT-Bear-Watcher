@@ -28,7 +28,7 @@ The user will be able to compile all the information of the bears they are watch
 - [Project Board](https://github.com/pmpurcell/ASSIGNMENT-Bear-Watcher/projects/1)
 
 ## Code Snippet!
-[catchFish](https://user-images.githubusercontent.com/86082231/130385166-f9992d33-3bff-4d18-99e1-b8e2fce351f3.png)
+![catchFish](https://user-images.githubusercontent.com/86082231/130385166-f9992d33-3bff-4d18-99e1-b8e2fce351f3.png)
 
 ## Project Screenshots
 
