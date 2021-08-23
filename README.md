@@ -1,52 +1,37 @@
-# Bear Watcher
-## Introduction
-Each year between July and September brown bears in the Katmai National Park congregate along the Brooks River.  This river is one of the main rivers that Sockeye Salmon swim up to spawn.  The brown bears wait in the shallows of the river and catch the salmon as they jump over rocks.  Want to see it in [ACTION](https://explore.org/livecams/brown-bears/brown-bear-salmon-cam-brooks-falls)?
+# Bear Watcher [![Netlify Status](https://api.netlify.com/api/v1/badges/cb4da4ca-16c1-4f1f-9437-26c81b9372d8/deploy-status)](https://app.netlify.com/sites/pmp-bear-watcher/deploys)
 
-You have been tasked with creating a site scientists and park ranger can use to track these bears.
 
-## Get Started
+While exploring nature, track the bears you find and count the amount of fish they have caught!
 
-1. Clone this repo
-```
-$ git clone github-url
-$ cd repo-name
-```
-2. Follow the instructions from the ["Starting the Project" Instructions](https://github.com/codetracker-learning/webpack-template#starting-the-project) to ensure you make all the updates to get the project started.
+[View App](https://pmp-bear-watcher.netlify.app/)
 
-3. Install Packages
+## Get Started 
 
-```
-$ sudo npm install
-$ npm start
-```
+    git clone git@github.com:pmpurcell/ASSIGNMENT-Bear-Watcher.git
+    cd ASSIGNMENT-Bear-Watcher.git
+    code .
 
-## Planning Requirements
-* Create a github project on this repo
-* Create feature tickets for this assignment
-* Create wireframes for this project and attach them to the appropriate project ticket.
+## About the User
+The ideal user is a nature enthusist who enjoys watching bears.
+The user will be able to compile all the information of the bears they are watching.
 
-## Technical Requirements
-* You must use [Boostrap](https://getbootstrap.com/) to style your page components.
-* Your JS file should be comprised of functions, no actions should happen in your code outside of a function
-* Your HTML and JS should all have proper indentations
-* You should be have Modular Code
-* Your JS code should be eslint error and warning free
+## Features
+- A user can user the form to add the name of a bear, as well as the picture of the bear.
+- Upon form submit, the information will be printed as a card the user can view.
+- Clicking the "Caught Fish" button will add one fish to the total amount the bear has caught.
 
-## User stories
-* As a user, when the page loads, I should see a bootstrap form that allows me to enter in a bear name and image url for a new bear.
-* As a user, when I click the submit button on the new bear form a bear should be added to the page.
-* As a user, when there are bears that are being tracked (ie after I have added one), I should see all their information displayed on a card.
+## Video Walkthrough of APP NAME
 
-## Dev Notes
-* Your project should have 2 modules - bearForm and river.
-  * bearForm - should be the form
-  * river - should display all the bears
 
-## Bonus #1: Tracking Fishing
-* As a user, I should be able to click something on each bear to indicate it has just tried to catch a fish.
-* As a user, I should be able to click something on each bear to indicate it has just successfully caught a fish.
-* As a user, looking at a bear card I should see time stamps and statuses for each time a bear caught a fish or attempted to catch a fish
-* As a user, looking at a bear card, I should see a total number of fish caught tally.
+## Relevant Links <!-- Link to all the things that are required outside of the ones that have their own section -->
+- [Check out the deployed site](https://pmp-bear-watcher.netlify.app/)
+- [Wireframes](https://docs.google.com/presentation/d/1zghSoqXQxMyrcLyZDPTLlxq4ky5HBIr3FgWvryEFRB4/edit?usp=sharing)
+- [Project Board](https://github.com/pmpurcell/ASSIGNMENT-Bear-Watcher/projects/1)
 
-## Bonus #2: Fattest Bear Award
-Each year in early september one bear is awarded the Fattest Bear award.  This award goes to the bear who gains the most weight between July and September.  Create an awards section on your application and award GOLD to the bear who has eaten the most fish, SILVER to the bear with the second most eaten fish, and BRONZE to the bear with the third most eaten fish.  Where applicable your application should show two winners for an award if the number of fish is tied.
+## Code Snippet
+PLACE CODE SNIPPET HERE
+
+## Project Screenshots
+
+## Contributors
+- [Madden Purcell](https://github.com/pmpurcell)
