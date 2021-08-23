@@ -6,6 +6,8 @@ const addBear = (event) => {
   const newBear = {
     name: document.querySelector('#bearName').value,
     image: document.querySelector('#bearImage').value,
+    fishCaught: 0,
+    fishAttempted: 0,
   };
 
   bears.push(newBear);
@@ -13,8 +15,18 @@ const addBear = (event) => {
   bearCardBuilder(bears);
 };
 
+const catchFish = (event) => {
+  const targetId = event.target.id;
+  if (event.target.type === 'button') {
+    event.preventDefault();
+    bears[targetId].fishCaught += 1;
+    bearCardBuilder(bears);
+  }
+};
+
 const formSubmit = () => {
   document.querySelector('#bearFormContainer').addEventListener('submit', addBear);
+  document.querySelector('#river').addEventListener('click', catchFish);
 };
 
 export default formSubmit;
