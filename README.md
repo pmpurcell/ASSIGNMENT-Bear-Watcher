@@ -19,7 +19,8 @@ The user will be able to compile all the information of the bears they are watch
 - Upon form submit, the information will be printed as a card the user can view.
 - Clicking the "Caught Fish" button will add one fish to the total amount the bear has caught.
 
-## Video Walkthrough of APP NAME
+## Video Walkthrough
+[Loom video walkthrough](https://www.loom.com/share/7116a9bc0a084e0f8759d0f33551bd26)
 
 
 ## Relevant Links <!-- Link to all the things that are required outside of the ones that have their own section -->
